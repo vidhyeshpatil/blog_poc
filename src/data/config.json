@@ -1,0 +1,16 @@
+{
+  "ques_list": {
+    "caption_title": "Sales Enablement • Product Marketing",
+    "ques_header": "What are your biggest challenges in enabling global sales teams, and how do you overcome them?",
+    "answers": [
+      {
+        "userDetails": {
+          "firstName": "Charles",
+          "lastName": "Tsang",
+          "position": "Sr. Director, Product Marketing at XYZ Company"
+        },
+        "comment": "The important word in this question is 'global'---the challenges of scaling enablement efforts across the world are primarily across 3 buckets:  -language: scaling localization of core assets and training"
+      }
+    ]
+  }
+}

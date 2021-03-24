@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "./css/main.css";
+import 'antd/dist/antd.css';
+import QuestionListView from './view/QuestionListView';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <React.Fragment>
+    <QuestionListView />
+  </React.Fragment>,
   document.getElementById('root')
 );
 
